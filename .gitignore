@@ -66,3 +66,7 @@ coverage/
 
 # Misc
 .cache/
+
+# Ignore virtual environment
+myenv/
+venv/
